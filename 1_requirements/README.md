@@ -1,10 +1,5 @@
 # Requirements
 
-## High level requirements
-
-
-## Low level requirements
-
 
 ## SWOT analysis
 1. Strenghts
@@ -29,3 +24,18 @@
 
 
 ## 4'w & 1'H
+
+Who
+ * Election bodies to conduct election.
+
+What
+ * To build a system to vote a candidate in a election of their own choice.
+
+When
+ * During elections to cast the vote.
+
+Where
+ * To issue this product in all the parts of the world where all kind of elections take place.
+
+How
+ * By creating a system which will provide all the functionalities required for casting a vote.
