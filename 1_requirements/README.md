@@ -1,5 +1,10 @@
 # Requirements
 
+## Introduction
+  
+ An online voting system is a software platform that allows groups to securely conduct votes and election. high quality online voting system balance ballot security ,accessibility, and the overall reqiurements of an organization's voting event.
+ 
+ It’s a good idea to use an online voting system to Elect a leader because there will be no malpractice of votes.
 
 ## SWOT analysis
 1. Strenghts
@@ -39,3 +44,19 @@ Where
 
 How
  * By creating a system which will provide all the functionalities required for casting a vote.
+
+
+# High level requirements
+
+ * Should be able to cast vote.
+ * Should be able to choose the candidate.
+ * Find the number of votes.
+ * Find the leading candidate.
+
+# Low level requirements
+
+ * Admin should able to record all the votes.
+ * All the candidates name should be visible.
+ * User should allowed to vote only once.
+ * User should exit from the portal after casting vote.
+ 
